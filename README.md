@@ -1,33 +1,24 @@
-## Hi there 👋
-
-# Joseph Karikari
-
-**Software Engineer | Flutter & Mobile Computing | Applied AI | Technology Educator**
-
-I am a Ghana-based software engineer and technology educator with over eight years of experience designing and developing mobile, web, and cloud-connected applications.
-
-I hold a BSc in Information Technology Education from the University of Education, Winneba. My technical interests include software engineering, applied artificial intelligence, distributed and mobile computing, and human-computer interaction.
-
-### Technical Focus
-- **Mobile Engineering:** Flutter, Dart, Android, iOS, offline-first applications
-- **Backend & Cloud:** Firebase, REST APIs, Node.js, PHP, MySQL, WebSockets
-- **Applied AI:** Google Document AI, document information extraction, Python
-- **Software Architecture:** MVVM, Clean Architecture, state management, testing
-
-### Selected Work
-- **Ghana Card AI Extraction:** Structured identity-document information extraction using Google Document AI and a PHP REST API.
-- **GCLMS:** Offline-first mobile information system supporting child labour monitoring and field data collection.
-- **Orbit:** Real-time ride-hailing platform integrating geolocation, cloud services, and rider–driver communication.
-- **EMIS:** Education management information systems supporting digital data collection and administration.
-
-### Research Interests
-Applied Artificial Intelligence · Software Engineering · Mobile & Distributed Computing · Human-Computer Interaction · Educational Technology
-
-### Connect
-- [LinkedIn](https://www.linkedin.com/in/josephkarikari/)
-- [ORCID](https://orcid.org/0009-0007-2248-7939)
+# 💫 About Me:
+Hi there, I'm Joseph Karikari 👋<br><br>Software Engineer | Mobile & Distributed Computing | Applied AI | Technology Educator<br><br>I am a Ghana-based software engineer with over eight years of experience developing mobile, web, and cloud-connected applications. I hold a BSc in Information Technology Education from the University of Education, Winneba.<br><br>My work focuses on building reliable software systems, including offline-first mobile applications, real-time platforms, educational information systems, and AI-powered document processing solutions.<br><br>I am interested in pursuing graduate research in Computer Science, Software Engineering, and Applied Artificial Intelligence, particularly in the design of intelligent, scalable, and accessible computing systems.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/josephkarikari/) 
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=karikarijoseph8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=karikarijoseph8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=karikarijoseph8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=karikarijoseph8&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=karikarijoseph8&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **karikarijoseph8/karikarijoseph8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
