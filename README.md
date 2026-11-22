@@ -27,7 +27,7 @@ I am interested in graduate research in computer science, software engineering a
 - ICT training and education information systems in Ghana
 
 ## Public work
-- [flutter_geofire with rotation](link): Flutter GeoFire plugin fork that adds
+- [flutter_geofire with rotation]([link](https://github.com/karikarijoseph8/advance-geofire)): Flutter GeoFire plugin fork that adds
   Android driver rotation and accuracy metadata (credit to the upstream project)
 
 Most of my professional work is for clients and is private.
@@ -42,7 +42,7 @@ SQLite, Google Cloud. REST APIs, WebSockets.
 
 ## Contact
 LinkedIn: linkedin.com/in/josephkarikari
-Portfolio: [your site]
+<!--Portfolio: [your site] -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
