@@ -27,7 +27,7 @@ I am interested in graduate research in computer science, software engineering a
 - ICT training and education information systems in Ghana
 
 ## Public work
-- [flutter_geofire with rotation](https://github.com/karikarijoseph8/advance-geofire): fork of the Flutter GeoFire plugin that adds Android driver rotation and location accuracy metadata. Credit to the original [[author]] ([[upstream link]]).
+- [flutter_geofire with rotation](https://github.com/karikarijoseph8/advance-geofire): my fork of [flutter_geofire](https://github.com/mrdishant/flutter_geofire) by mrdishant (MIT). I added Android driver marker rotation and location accuracy metadata, used in the Orbit Driver app.
   
 Most of my professional work is for clients and is private.
 
