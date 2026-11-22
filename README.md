@@ -1,15 +1,11 @@
 # Joseph Karikari
 
-Software engineer and technology educator in Kumasi, Ghana.
-I build mobile, and applied-AI systems for government, education and business.
 I'm a software engineer and a teacher by training (BSc Information Technology Education, University of Education, Winneba). 
 That mix shapes how I work: I build the system, then train the people who have to use it.
 
 By day I lead mobile and backend work for government clients in Ghana. 
 Outside it I run ICT clubs for junior high students and facilitate teacher training for the Ghana Education Service.
 
-I have 7+ years of experience building mobile and web applications.
-BSc in Information Technology Education, University of Education, Winneba.
 I am interested in graduate research in computer science, software engineering and applied AI.
 
 ## What I work on
