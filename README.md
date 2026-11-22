@@ -28,7 +28,6 @@ SQLite, Google Cloud. REST APIs, WebSockets.
 
 ## Contact
 LinkedIn: linkedin.com/in/josephkarikari
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josephkarikari/) 
 <!--Portfolio: [your site] -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
