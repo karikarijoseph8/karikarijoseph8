@@ -11,7 +11,38 @@ Hi there, I'm Joseph Karikari 👋<br><br>Software Engineer | Mobile & Distribut
 ![](https://github-readme-stats.shion.dev/api?username=karikarijoseph8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=karikarijoseph8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Joseph Karikari
 
+Software engineer and technology educator in Kumasi, Ghana.
+I build mobile, offline-first and applied-AI systems for government and education.
+
+I have 7+ years of experience building mobile, web and cloud-connected applications.
+BSc in Information Technology Education, University of Education, Winneba.
+I am interested in graduate research in computer science, software engineering and applied AI.
+
+## What I work on
+- Offline-first mobile apps for field data collection (Flutter, sqflite)
+- Real-time location and tracking (Firebase, WebSockets, Google Maps)
+- Document information extraction (Google Document AI)
+- ICT training and education information systems in Ghana
+
+## Public work
+- [flutter_geofire with rotation](link): Flutter GeoFire plugin fork that adds
+  Android driver rotation and accuracy metadata (credit to the upstream project)
+
+Most of my professional work is for clients and is private.
+
+## Research
+- Thesis (open access): https://doi.org/10.5281/zenodo.24035599
+- ORCID: https://orcid.org/0009-0007-2248-7939
+
+## Stack
+Dart, Flutter, PHP, TypeScript, Next.js, Python, Java, Swift. Firebase, MySQL,
+SQLite, Google Cloud. REST APIs, WebSockets.
+
+## Contact
+LinkedIn: linkedin.com/in/josephkarikari
+Portfolio: [your site]
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
