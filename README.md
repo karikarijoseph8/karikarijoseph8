@@ -17,7 +17,6 @@ I am interested in graduate research in computer science, software engineering a
 - **National education data systems:** EMIS Census web platform and mobile app for the Ministry of Education (PHP, MySQL, Flutter)
 - **Real-time location platform:** Orbit ride-hailing apps on Google Play (Firebase, WebSockets, Google Maps)
 - **Applied AI:** Ghana Card information extraction with Google Document AI, 96.6% F1 on 20 held-out documents
-- **Teaching:** ICT clubs, Girls-in-ICT, and ICT and cybersecurity training for teachers
 
 ## Public work
 - [flutter_geofire with rotation](https://github.com/karikarijoseph8/advance-geofire): my fork of [flutter_geofire](https://github.com/mrdishant/flutter_geofire) by mrdishant (MIT). I added Android driver marker rotation and location accuracy metadata, used in the Orbit Driver app.
