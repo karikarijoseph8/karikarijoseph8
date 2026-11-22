@@ -2,16 +2,22 @@
 
 Software engineer and technology educator in Kumasi, Ghana.
 I build mobile, and applied-AI systems for government, education and business.
+I'm a software engineer and a teacher by training (BSc Information Technology Education, University of Education, Winneba). 
+That mix shapes how I work: I build the system, then train the people who have to use it.
+
+By day I lead mobile and backend work for government clients in Ghana. 
+Outside it I run ICT clubs for junior high students and facilitate teacher training for the Ghana Education Service.
 
 I have 7+ years of experience building mobile and web applications.
 BSc in Information Technology Education, University of Education, Winneba.
 I am interested in graduate research in computer science, software engineering and applied AI.
 
 ## What I work on
-- Offline-first mobile apps for field data collection (Flutter, sqflite)
-- Real-time location and tracking (Firebase, WebSockets, Google Maps)
-- Document information extraction (Google Document AI)
-- ICT training and education information systems in Ghana
+- **Offline-first field data collection:** GCLMS for the Ministry of Labour, Jobs and Employment (Flutter, sqflite, sync queue), now in pilot testing
+- **National education data systems:** EMIS Census web platform and mobile app for the Ministry of Education (PHP, MySQL, Flutter)
+- **Real-time location platform:** Orbit ride-hailing apps on Google Play (Firebase, WebSockets, Google Maps)
+- **Applied AI:** Ghana Card information extraction with Google Document AI, 96.6% F1 on 20 held-out documents
+- **Teaching:** ICT clubs, Girls-in-ICT, and ICT and cybersecurity training for teachers
 
 ## Public work
 - [flutter_geofire with rotation](https://github.com/karikarijoseph8/advance-geofire): my fork of [flutter_geofire](https://github.com/mrdishant/flutter_geofire) by mrdishant (MIT). I added Android driver marker rotation and location accuracy metadata, used in the Orbit Driver app.
