@@ -9,7 +9,7 @@ I also support computing education through junior high school ICT clubs and teac
 I am interested in graduate research in computer science, software engineering and applied AI.
 
 ## What I work on
-- **Offline-first field data collection: Ghana Child Labour Monitoring System (GCLMS), currently in pilot testing — Flutter, SQLite, synchronization queues.
+- **Offline-first field data collection::** Ghana Child Labour Monitoring System (GCLMS), currently in pilot testing — Flutter, SQLite, synchronization queues.
 - **National education data systems:**  EMIS Census web platform and mobile application — PHP, MySQL, Flutter.
 - **Real-time location platform:** Orbit ride-hailing applications — Firebase, WebSockets, Google Maps.
 - **Applied AI:** Ghana Card information extraction using Google Document AI, integrated with a PHP REST API.
